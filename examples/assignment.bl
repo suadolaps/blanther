@@ -1,0 +1,8 @@
+#
+# Assignment in blanter works like this:
+#
+
+a := 1
+print(a)
+
+# EXP: 1
